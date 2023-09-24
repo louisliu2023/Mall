@@ -1,0 +1,37 @@
+{
+  "id": "4217584",
+  "name": "shopvue",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7022552",
+      "name": "默认",
+      "font_class": "moren",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "673780",
+      "name": "差评",
+      "font_class": "chaping",
+      "unicode": "e6c2",
+      "unicode_decimal": 59074
+    },
+    {
+      "icon_id": "673792",
+      "name": "好评",
+      "font_class": "haoping",
+      "unicode": "e6c6",
+      "unicode_decimal": 59078
+    },
+    {
+      "icon_id": "795544",
+      "name": "中评",
+      "font_class": "zhongping",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    }
+  ]
+}
